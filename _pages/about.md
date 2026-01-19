@@ -27,15 +27,23 @@ I am currently a MSc student in Artificial Intelligence at **The Chinese Univers
 
 ### 💼 Work Experience
 
-- **Jul. 2024 – Present**: Research Assistant, *Fudan University*  
-  * Focus: Trustworthy ML and Efficient ML
-  * Supervisor: Prof. Weizhong Zhang  
+- **Jan. 2025 – Present**: Research Intern (Part-time), *CUHK*  
+  * Focus: AI for Bioinformatics
+  * Supervisor: [Prof. Yu Li](https://liyu95.com/)
 
 - **Sep. 2025 – Oct. 2025**: Research Visitor, *Huawei Hong Kong Research Institute*  
-  * Focus: Reasoning in large language models (LLMs)  
+  * Focus: Reasoning in LLMs
 
 - **Aug. 2025 – Sep. 2025**: Machine Learning Intern, *SF Technology*  
   * Focus: Reinforcement Learning from Human Feedback (RLHF)  
+
+- **Jul. 2024 – Jul. 2025**: Research Assistant, *Fudan University*  
+  * Focus: Trustworthy ML & Efficient ML
+  * Supervisor: [Prof. Weizhong Zhang](https://weizhonz.github.io/) and [Prof. Cheng Jin](https://cjinfdu.github.io/research.html)
+
+- **Jul. 2022 – Aug. 2023**: Research Assistant, *Fudan University*  
+  * Focus: Anomaly Detection in CV
+  * Supervisor: [Prof. Xiangyang Xue](https://scholar.google.com/citations?user=DTbhX6oAAAAJ&hl=en)
 
 - **Jun. 2021 – Aug. 2021**: Algorithm Research Intern, *CloudWalk Technology Co., Ltd.*  
   * Worked on ID card identification security for *Agricultural Bank of China* 
